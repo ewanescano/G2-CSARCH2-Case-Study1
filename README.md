@@ -5,7 +5,7 @@
 **Group Members**:  
 - Aaron Mark Armas 
 - Lance Jacob T. Ferrer
-- Name 3  
+- Marione Ralph A. Galman  
 - Name 4 
 -   
 
@@ -102,9 +102,14 @@ Example:
 
 ## 6. Conclusion & Learnings
 Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+- Price differences (international vs. Manila vendors)
+  - We appreciated how local pricing and availability can significantly influence builds like ours, which forces us to compromise and settle with the available parts locally compared to international pricing.
+- Challenges in finding stock or cheaper equivalents
+- What the group learned about PC components and system design
+  - **Practical knowledge on surface level computer architevture**: How factors such as CPU, Chipsets, RAM types affect compatibility between computer parts
+  - **Balance budget vs. Performance**: focusing on certain drivers of the build whilst cutting cost on secondary parts to prioritize the main function of this PC build (entry-level gaming build)
+  - **Trade-offs are inevitable**: In our case, some trade-offs were necessary to stay within the budget, such as skipping secondary storage, and using included fans to help free the budget for the CPU and GPU.
+
 
 ---
 ## 7. Video pitch
