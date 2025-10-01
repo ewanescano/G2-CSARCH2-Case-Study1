@@ -4,7 +4,7 @@
 **Section**: S20 
 **Group Members**:  
 - Aaron Mark Armas 
-- Name 2  
+- Lance Jacob T. Ferrer
 - Name 3  
 - Name 4 
 -   
