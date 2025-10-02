@@ -57,7 +57,7 @@ Google spreadsheet link: [Spreadsheet link](https://docs.google.com/spreadsheets
 | Storage 2 (HDD) | — | [— ](link)   | —      |                   |
 | GPU             | Asrock RX 6600   | [EasyPC](https://easypc.com.ph/products/asrock-rx-6600-8g-challenger-d-8gb-128bit-gddr6-gaming-videocard)    | 12445         |   |
 | PSU             | MSI A550BN   | [DynaQuest](https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply?_pos=1&_psq=MAG+A55&_ss=e&_v=1.0)   | 2595         |                   |
-| Case            | Tecware Neo mATX   | [DynaQuest](https://dynaquestpc.com/products/tecware-nexus-air-m2-black-mesh-tg-matx-3x120mm)    | 1925         |                  |
+| Case            | Tecware Nexus M mATX    | [DynaQuest](https://dynaquestpc.com/products/tecware-nexus-air-m2-black-mesh-tg-matx-3x120mm)    | 1925         |                  |
 | Case Fans       | Included in case   |—      |    —       |                         |
 | **Total**       |       |                    | **39515 Php** | Within budget                        |
 
