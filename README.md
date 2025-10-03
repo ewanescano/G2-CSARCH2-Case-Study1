@@ -118,7 +118,14 @@ Reflections on:
 - https://youtu.be/iy5btHRvdtQ  
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
-
+- https://docs.google.com/spreadsheets/d/1OK2ted-A25oSzMM9lTJzNA6FEq4Q1xWxSyJ0wyXetlU/edit?usp=sharing
+- https://pcpartpicker.com/list/hcPRcx
+- https://dynaquestpc.com/products/intel-core-i5-12400f-processor-20m-cache-up-to-4-90-ghz-must-be-purchased-with-compatible-motherboard
+- https://dynaquestpc.com/products/deepcool-ak400-air-cooler-r-ak400-bknnmn-g-1
+- https://dynaquestpc.com/products/msi-pro-b760m-p-ddr4-lga1700-motherboard
+- https://dynaquestpc.com/products/gskill-ripjaws-v-32gb-2x16gb-ddr4-3600-f4-3600c18d-32gvk
+- https://dynaquestpc.com/products/team-group-mp33-m-2-1tb-2280-pcie-3-0-x4-nvme-1-3-3d-nand-internal-ssd-tm8fp6001t0c101
+- https://easypc.com.ph/products/asrock-rx-6600-8g-challenger-d-8gb-128bit-gddr6-gaming-videocard
+- https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply?_pos=1&_psq=MAG+A55&_ss=e&_v=1.0
+- https://dynaquestpc.com/products/tecware-nexus-air-m2-black-mesh-tg-matx-3x120mm
+- https://www.pcgamer.com/hardware/processors/a-year-later-and-over-six-months-since-the-last-patch-intel-is-still-releasing-updates-to-fix-instability-problems-with-its-13th-and-14th-gen-raptor-lake-cpus/
