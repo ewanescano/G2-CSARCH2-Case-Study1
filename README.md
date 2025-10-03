@@ -66,6 +66,8 @@ Google spreadsheet link: [Spreadsheet link](https://docs.google.com/spreadsheets
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
+- **CPU + GPU Choice Consideration**: We initially wanted a newer model of CPU's such as the intel 13th Gen or 14th Gen but those costed too much for the recommended playing resolution while also having stability issues (reference:https://www.pcgamer.com/hardware/processors/a-year-later-and-over-six-months-since-the-last-patch-intel-is-still-releasing-updates-to-fix-instability-problems-with-its-13th-and-14th-gen-raptor-lake-cpus/)
+- **CPU + GPU Choice Consideration pt 2**: We chose the rx 6600 instead of other competitors such as NVIDIA or Intel because their RX6600 card is the one the fit all our criterion for building the budget gaming pc having 8GB VRAM and a strong enough chip to handle games
 - **CPU + Motherboard**: i5-12400F uses LGA1700 socket, fully supported by MSI PRO B760M-P.
 
 - **RAM + Motherboard**: 32 GB DDR4-3600 matches the B760M-P’s DDR4 slots and supported capacity/speed.
